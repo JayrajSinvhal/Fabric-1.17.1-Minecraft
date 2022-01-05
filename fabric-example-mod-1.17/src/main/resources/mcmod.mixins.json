@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.jayrajcodes.mcmod.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "McMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

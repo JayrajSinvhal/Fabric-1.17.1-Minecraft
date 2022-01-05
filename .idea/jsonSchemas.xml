@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="Minecraft Data Pack Loot Table">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="Minecraft Data Pack Loot Table" />
+              <option name="relativePathToSchema" value="https://json.schemastore.org/minecraft-loot-table.json" />
+              <option name="applicationDefined" value="true" />
+              <option name="patterns">
+                <list>
+                  <Item>
+                    <option name="path" value="fabric-example-mod-1.17/src/main/resources/data/mcmod/loot_tables/blocks/ruby_ore.json" />
+                  </Item>
+                </list>
+              </option>
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
